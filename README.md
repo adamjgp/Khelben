@@ -1,2 +1,2 @@
 # Khelben
-This is a project
+This project is written in honor of Khelben Arunsun, the Blackstaff.
